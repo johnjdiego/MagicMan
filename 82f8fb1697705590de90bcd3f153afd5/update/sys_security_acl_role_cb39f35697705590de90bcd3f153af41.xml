@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>john.diego@snc</sys_created_by>
+        <sys_created_on>2022-07-22 16:36:34</sys_created_on>
+        <sys_id>cb39f35697705590de90bcd3f153af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_magicman_magicdata.x_snc_magicman.magicpeople</sys_name>
+        <sys_package display_value="MagicMan" source="x_snc_magicman">82f8fb1697705590de90bcd3f153afd5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MagicMan">82f8fb1697705590de90bcd3f153afd5</sys_scope>
+        <sys_security_acl display_value="x_snc_magicman_magicdata">cb39f35697705590de90bcd3f153af3e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cb39f35697705590de90bcd3f153af41</sys_update_name>
+        <sys_updated_by>john.diego@snc</sys_updated_by>
+        <sys_updated_on>2022-07-22 16:36:34</sys_updated_on>
+        <sys_user_role display_value="x_snc_magicman.magicpeople" name="x_snc_magicman.magicpeople">4d09ff5297705590de90bcd3f153af01</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
